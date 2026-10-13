@@ -34,8 +34,8 @@
 
 ```bash
 [2026-10-12 10:24:21] koto: hello!!!
-koto拍了拍你
-koto拍了拍你
+[2026-10-12 10:24:21] koto拍了拍你
+[2026-10-12 10:24:21] koto拍了拍你
 ```
 
 ------
@@ -74,6 +74,6 @@ In the opened folder, find and open `Player.log`. The enhanced log output will l
 
 ```bash
 [2026-10-12 10:24:21] koto: hello!!!
-koto拍了拍你
-koto拍了拍你
+[2026-10-12 10:24:21] koto拍了拍你
+[2026-10-12 10:24:21] koto拍了拍你
 ```
