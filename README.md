@@ -1,5 +1,19 @@
 # BongoCat_LoggerEnhancement
 
+> [!CAUTION]
+> 
+> 经过测试，部分电脑在使用该文件时可能会出现报错，具体原因目前尚不明确。
+> 如果你在使用过程中遇到报错，则说明该项目可能无法在你的设备上正常工作，也无法为你提供进一步帮助。
+> 
+> Testing has shown that this file may cause errors on some computers. The exact cause is currently unknown.
+> If you encounter an error while using it, this project may not work properly on your device and may not be able to provide further assistance.
+>
+> 由于该游戏更新频率较高，每次游戏更新后，原有文件都可能失效。
+> 请根据你当前使用的游戏版本号，选择与之匹配的文件。
+> 
+> Since the game is updated frequently, existing files may become invalid after each game update.
+> Please select the file that matches your current game version.
+
 该项目用于增强 **Bongo Cat（Steam 游戏）** 的日志功能，为原版游戏增加 **房间聊天记录** 和 **拍一拍定位** 两项功能。
 
 - **房间聊天记录**：房间内其他 cat 发送的聊天消息会被记录到游戏日志中。
